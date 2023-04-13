@@ -12,3 +12,6 @@
 
 https://:qqtimer-samsepi0l.netlify.app/*
   X-Robots-Tag: noindex
+
+/*.js
+	Access-Control-Allow-Origin: *
